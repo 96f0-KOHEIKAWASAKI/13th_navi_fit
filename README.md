@@ -30,4 +30,4 @@ Laravelを用いて、会員・トレーニングメニュー等を管理でき�
 - 責務分離の明確化
 
 ## Links
-- LinkedIn: https://www.linkedin.com/in/xxxxxx
+- LinkedIn: [https://www.linkedin.com/feed/](https://www.linkedin.com/in/kohei-kawasaki-332632318/)
